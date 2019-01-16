@@ -1,0 +1,10 @@
+ Volume in drive D is SSD source
+ Volume Serial Number is 94BA-9E9F
+
+ Directory of d:\github-workflow\work2
+
+01/15/2019  04:51 PM    <DIR>          .
+01/15/2019  04:51 PM    <DIR>          ..
+01/15/2019  04:51 PM                 0 foo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  641,157,820,416 bytes free
